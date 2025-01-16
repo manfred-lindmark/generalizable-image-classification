@@ -1,8 +1,5 @@
-/datasets
 /checkpoints
 /runs
-/best_model
-/statistics
 /__pycache__
 
 # Windows only
