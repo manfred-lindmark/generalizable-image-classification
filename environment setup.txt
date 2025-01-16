@@ -1,0 +1,6 @@
+conda create -n generalizability python=3.10 pytorch=2.3 torchvision numpy matplotlib pytorch-cuda=11.8 -c pytorch -c nvidia -c conda-forge -y
+
+conda activate generalizability
+
+pip install torcheval==0.0.7
+
